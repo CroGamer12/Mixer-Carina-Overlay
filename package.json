@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "license": "SEE IN LICENCE",
   "scripts": {
     "start": "parcel index.html"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "dependencies": {
     "carina": "^0.11.2",
     "ws": "^6.2.1"
